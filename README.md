@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sam
 
-I have a passion for video games and music, and I love working on projects that incorporate the two! Please take a look at some of my projects.
+I have a passion for programming, video games, and music. Most importantly, I love working on projects that incorporate all of these things! Please take a look at some of the stuff I've worked on.
 
 <!--
 **samfalberg/samfalberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
