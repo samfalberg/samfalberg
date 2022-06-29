@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sam
+
+I have a passion for video games and music, and I love working on project that incorporates the two! Please take a look at some of my projects.
 
 <!--
 **samfalberg/samfalberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
